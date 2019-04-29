@@ -1,6 +1,6 @@
 # Props shared between 3 level components
 
-> A Vue.js project
+> Demo: https://codesandbox.io/embed/792o7x7xq
 
 ## Build Setup
 
